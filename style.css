@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    text-align: center;
+    
+      background-image: "https://tse2.mm.bing.net/th?id=OIP.EtCREPKYyuUhwRJcy1Q6jwHaEK&pid=Api&P=0&h=180"; /* Add your background image URL here */
+      background-size: cover;
+      background-position: center;
+    
+    
+    /* Rest of your CSS styles remain the same */
+  }
+  
+  h1 {
+    background-color: #008577;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  
+  /* Sections */
+  section {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .documents, .images {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  /* Document links */
+  .documents a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #008577;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .documents a:hover {
+    color: #005a40;
+  }
+  
+  /* Images */
+  .images img {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 5px;
+  }
+  #file-details{
+    background-color: blue;
+    
+  }
+  
+  
+  /* Rest of your CSS styles remain the same */
